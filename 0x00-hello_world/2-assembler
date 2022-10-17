@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -s $CFILE -o rise.s
+gcc -S $CFILE -o rise.s
