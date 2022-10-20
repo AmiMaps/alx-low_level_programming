@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - returns alphbets 
+ *main - returns alphbets
  *
  * Return: Always 0 (Success)
  */
@@ -10,14 +10,14 @@
 int main(void)
 {
 	int ch = 'a';
-	while (ch < = 'z')
 
-{
-	putchar (ch);
-	ch++;
+	while (ch <= 'z')
 
-}
-        putchar ('\n');
-	return (0);
+	{
+		putchar (ch);
+		ch++;
 
+	}
+putchar ('\n');
+return (0);
 }
