@@ -11,15 +11,15 @@ int main(void)
 {
 	int ch = 'a';
 	int ch = 'A';
+
 	while (ch < = 'z';
 
-{
-        putchar (ch);
-	ch++;
-
 }
-        putchar ('\n')
-	return (0) 
+putchar (ch);
+ch++;
 
+	{
+putchar ('\n');
+return (0);
 }
 
